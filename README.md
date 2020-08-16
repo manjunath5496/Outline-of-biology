@@ -173,8 +173,8 @@
 </li>
 </ul>
 <h2><span id="History_of_biology" class="mw-headline">History of biology</span></h2>
-<div class="hatnote navigation-not-searchable">Main article:&nbsp;<a title="History of biology" href="https://en.wikipedia.org/wiki/History_of_biology">History of biology</a></div>
-<div class="hatnote navigation-not-searchable">See also:&nbsp;<a title="Timeline of biology and organic chemistry" href="https://en.wikipedia.org/wiki/Timeline_of_biology_and_organic_chemistry">Timeline of biology and organic chemistry</a></div>
+<div class="hatnote navigation-not-searchable"><a title="History of biology" href="https://en.wikipedia.org/wiki/History_of_biology">History of biology</a></div>
+<div class="hatnote navigation-not-searchable"> <a title="Timeline of biology and organic chemistry" href="https://en.wikipedia.org/wiki/Timeline_of_biology_and_organic_chemistry">Timeline of biology and organic chemistry</a></div>
 <ul>
 <li><a title="History of anatomy" href="https://en.wikipedia.org/wiki/History_of_anatomy">History of anatomy</a></li>
 <li><a title="History of biochemistry" href="https://en.wikipedia.org/wiki/History_of_biochemistry">History of biochemistry</a></li>
